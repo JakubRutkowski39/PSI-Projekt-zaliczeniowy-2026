@@ -1,6 +1,6 @@
 # PSI-Projekt-zaliczeniowy-2026
 
-Analiza dotyczy analizy wierszy poprzez analizę częstości słów i analizę sentymentu
+Projekt dotyczy analizy wierszy poprzez analizę częstości słów i analizę sentymentu
 
 Grupa: Jakub Rutkowski, Mikołaj Wojtkowski, Marek Grajewski
 
