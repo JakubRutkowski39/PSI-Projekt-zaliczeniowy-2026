@@ -1,10 +1,8 @@
 # PSI-Projekt-zaliczeniowy-2026
-Projekt zaliczeniowy na PSI 2026
 
-Analiza dotyczy analizy wierszy poprzez analizę częstości słów i analizę sentymentu
+#Analiza dotyczy analizy wierszy poprzez analizę częstości słów i analizę sentymentu
 
 Grupa: Jakub Rutkowski, Mikołaj Wojtkowski, Marek Grajewski
-
 
 Podział obowiązków:
 
